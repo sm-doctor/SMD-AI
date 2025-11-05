@@ -23,6 +23,6 @@ jobs:
           # 你的 GitHub 个人访问令牌
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # 上游仓库的地址，格式：所有者/仓库名
-          upstream: 官方原作者/仓库名
+          upstream: deepseek-ai/DeepSeek-V3
           # 你的复刻仓库的分支，通常是 main
           base_branch: main
